@@ -1,0 +1,122 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "LiveLinkHandEngineRetargetAsset.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+enum class EHandEngineMapping : uint8;
+enum class EHandEngineRetargetNamingConvention : uint8;
+#ifdef HANDENGINELIVELINK_LiveLinkHandEngineRetargetAsset_generated_h
+#error "LiveLinkHandEngineRetargetAsset.generated.h already included, missing '#pragma once' in LiveLinkHandEngineRetargetAsset.h"
+#endif
+#define HANDENGINELIVELINK_LiveLinkHandEngineRetargetAsset_generated_h
+
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_18_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FRemapRowHandle_Statics; \
+	HANDENGINELIVELINK_API static class UScriptStruct* StaticStruct();
+
+
+template<> HANDENGINELIVELINK_API UScriptStruct* StaticStruct<struct FRemapRowHandle>();
+
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_SPARSE_DATA
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_RPC_WRAPPERS \
+	virtual FName GetCustomRemappedBoneName_Implementation(EHandEngineMapping Bone) const; \
+ \
+	DECLARE_FUNCTION(execGetCustomRemappedBoneName); \
+	DECLARE_FUNCTION(execGetRemappedBoneNameByConvention);
+
+
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_RPC_WRAPPERS_NO_PURE_DECLS \
+	virtual FName GetCustomRemappedBoneName_Implementation(EHandEngineMapping Bone) const; \
+ \
+	DECLARE_FUNCTION(execGetCustomRemappedBoneName); \
+	DECLARE_FUNCTION(execGetRemappedBoneNameByConvention);
+
+
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_ACCESSORS
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_CALLBACK_WRAPPERS
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesULiveLinkHandEngineRetargetAsset(); \
+	friend struct Z_Construct_UClass_ULiveLinkHandEngineRetargetAsset_Statics; \
+public: \
+	DECLARE_CLASS(ULiveLinkHandEngineRetargetAsset, ULiveLinkRetargetAsset, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/HandEngineLiveLink"), NO_API) \
+	DECLARE_SERIALIZER(ULiveLinkHandEngineRetargetAsset)
+
+
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_INCLASS \
+private: \
+	static void StaticRegisterNativesULiveLinkHandEngineRetargetAsset(); \
+	friend struct Z_Construct_UClass_ULiveLinkHandEngineRetargetAsset_Statics; \
+public: \
+	DECLARE_CLASS(ULiveLinkHandEngineRetargetAsset, ULiveLinkRetargetAsset, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/HandEngineLiveLink"), NO_API) \
+	DECLARE_SERIALIZER(ULiveLinkHandEngineRetargetAsset)
+
+
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ULiveLinkHandEngineRetargetAsset(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ULiveLinkHandEngineRetargetAsset) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ULiveLinkHandEngineRetargetAsset); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ULiveLinkHandEngineRetargetAsset); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ULiveLinkHandEngineRetargetAsset(ULiveLinkHandEngineRetargetAsset&&); \
+	NO_API ULiveLinkHandEngineRetargetAsset(const ULiveLinkHandEngineRetargetAsset&); \
+public: \
+	NO_API virtual ~ULiveLinkHandEngineRetargetAsset();
+
+
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ULiveLinkHandEngineRetargetAsset(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ULiveLinkHandEngineRetargetAsset(ULiveLinkHandEngineRetargetAsset&&); \
+	NO_API ULiveLinkHandEngineRetargetAsset(const ULiveLinkHandEngineRetargetAsset&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ULiveLinkHandEngineRetargetAsset); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ULiveLinkHandEngineRetargetAsset); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ULiveLinkHandEngineRetargetAsset) \
+	NO_API virtual ~ULiveLinkHandEngineRetargetAsset();
+
+
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_47_PROLOG
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_SPARSE_DATA \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_RPC_WRAPPERS \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_ACCESSORS \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_CALLBACK_WRAPPERS \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_INCLASS \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_SPARSE_DATA \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_ACCESSORS \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_CALLBACK_WRAPPERS \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_INCLASS_NO_PURE_DECLS \
+	FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h_50_ENHANCED_CONSTRUCTORS \
+static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class LiveLinkHandEngineRetargetAsset."); \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> HANDENGINELIVELINK_API UClass* StaticClass<class ULiveLinkHandEngineRetargetAsset>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Users_JorenThiessen_Documents_GitHub_stretchsense_studio_plugin_unreal_Plugins_HandEngineLiveLink_Source_HandEngineLiveLink_Public_LiveLinkHandEngineRetargetAsset_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

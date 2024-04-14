@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jorenthiessen\\documents\\github\\stretchsense-studio-plugin-unreal\\plugins\\handenginelivelink\\source\\handenginelivelink\\private\\livelinkhandengineretargetasset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jorenthiessen\\documents\\github\\stretchsense-studio-plugin-unreal\\intermediate\\build\\win64\\mocap_stage_exporteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\jorenthiessen\\documents\\github\\stretchsense-studio-plugin-unreal\\plugins\\handenginelivelink\\intermediate\\build\\win64\\unrealeditor\\development\\handenginelivelink\\definitions.handenginelivelink.h",
+            "c:\\users\\jorenthiessen\\documents\\github\\stretchsense-studio-plugin-unreal\\plugins\\handenginelivelink\\source\\handenginelivelink\\public\\livelinkhandengineretargetasset.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\map",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\xtree",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\livelinkanimationcore\\public\\livelinkremapasset.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\livelinkanimationcore\\public\\livelinkretargetasset.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\livelinkanimationcore\\uht\\livelinkretargetasset.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\livelinkanimationcore\\uht\\livelinkremapasset.generated.h",
+            "c:\\users\\jorenthiessen\\documents\\github\\stretchsense-studio-plugin-unreal\\plugins\\handenginelivelink\\source\\handenginelivelink\\public\\handenginemappingenum.h",
+            "c:\\users\\jorenthiessen\\documents\\github\\stretchsense-studio-plugin-unreal\\plugins\\handenginelivelink\\intermediate\\build\\win64\\unrealeditor\\inc\\handenginelivelink\\uht\\handenginemappingenum.generated.h",
+            "c:\\users\\jorenthiessen\\documents\\github\\stretchsense-studio-plugin-unreal\\plugins\\handenginelivelink\\intermediate\\build\\win64\\unrealeditor\\inc\\handenginelivelink\\uht\\livelinkhandengineretargetasset.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\livelinkinterface\\public\\roles\\livelinkanimationtypes.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\livelinkinterface\\public\\livelinktypes.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\livelinkinterface\\public\\livelinkrefskeleton.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\livelinkinterface\\uht\\livelinkrefskeleton.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\livelinkinterface\\uht\\livelinktypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\livelinkinterface\\uht\\livelinkanimationtypes.generated.h",
+            "c:\\users\\jorenthiessen\\documents\\github\\stretchsense-studio-plugin-unreal\\plugins\\handenginelivelink\\source\\handenginelivelink\\public\\segmentinformation.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

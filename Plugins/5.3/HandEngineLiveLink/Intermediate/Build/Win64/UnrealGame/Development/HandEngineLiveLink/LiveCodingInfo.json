@@ -1,0 +1,30 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HandEngineLiveLink.cpp.obj": [
+			"getPose.gen.cpp.obj",
+			"getSliders.gen.cpp.obj",
+			"HandEngineLiveLink.init.gen.cpp.obj",
+			"HandEngineLiveLinkBPLibrary.gen.cpp.obj",
+			"HandEngineLiveLinkRemapAsset.gen.cpp.obj",
+			"HandEngineLiveLink_AnimInstance.gen.cpp.obj",
+			"HandEngineLiveLink_LLSourceFactory.gen.cpp.obj",
+			"HandEngineMappingEnum.gen.cpp.obj",
+			"HandEngineRetargetSkeleton.gen.cpp.obj",
+			"HandEngine_SDK_AnimInstance.gen.cpp.obj",
+			"LiveLinkHandEngineRetargetAsset.gen.cpp.obj",
+			"HandEngineLiveLink.cpp.obj",
+			"HandEngineLiveLinkBPLibrary.cpp.obj",
+			"HandEngineLiveLinkRemapAsset.cpp.obj",
+			"HandEngineLiveLink_AnimInstance.cpp.obj",
+			"HandEngineLiveLink_LLSource.cpp.obj",
+			"HandEngineLiveLink_LLSourceFactory.cpp.obj",
+			"HandEngineRetargetSkeleton.cpp.obj",
+			"HandEngine_SDK_AnimInstance.cpp.obj",
+			"LiveLinkHandEngineRetargetAsset.cpp.obj",
+			"SHandEngineLiveLink_LLSourceFactory.cpp.obj",
+			"getPose.cpp.obj",
+			"getSliders.cpp.obj"
+		]
+	}
+}

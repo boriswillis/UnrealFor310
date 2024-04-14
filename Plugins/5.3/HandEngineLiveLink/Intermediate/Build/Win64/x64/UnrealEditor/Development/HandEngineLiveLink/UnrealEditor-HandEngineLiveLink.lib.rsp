@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HandEngineLiveLink.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\JorenThiessen\Documents\Unreal Projects\PluginUpgrade5_3\Intermediate\Build\Win64\x64\PluginUpgrade5_3Editor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\JorenThiessen\Documents\Unreal Projects\PluginUpgrade5_3\Plugins\HandEngineLiveLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\HandEngineLiveLink\Module.HandEngineLiveLink.cpp.obj"
+"C:\Users\JorenThiessen\Documents\Unreal Projects\PluginUpgrade5_3\Plugins\HandEngineLiveLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\HandEngineLiveLink\Default.rc2.res"
+/OUT:"C:\Users\JorenThiessen\Documents\Unreal Projects\PluginUpgrade5_3\Plugins\HandEngineLiveLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\HandEngineLiveLink\UnrealEditor-HandEngineLiveLink.lib"

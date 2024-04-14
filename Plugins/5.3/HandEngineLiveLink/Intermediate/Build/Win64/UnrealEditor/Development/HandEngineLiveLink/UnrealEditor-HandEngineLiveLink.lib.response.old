@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HandEngineLiveLink.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\JorenThiessen\Documents\GitHub\stretchsense-studio-plugin-unreal\Intermediate\Build\Win64\Mocap_Stage_ExportEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\JorenThiessen\Documents\GitHub\stretchsense-studio-plugin-unreal\Plugins\HandEngineLiveLink\Intermediate\Build\Win64\UnrealEditor\Development\HandEngineLiveLink\Module.HandEngineLiveLink.cpp.obj"
+"C:\Users\JorenThiessen\Documents\GitHub\stretchsense-studio-plugin-unreal\Plugins\HandEngineLiveLink\Intermediate\Build\Win64\UnrealEditor\Development\HandEngineLiveLink\HandEngineLiveLinkBPLibrary.cpp.obj"
+"C:\Users\JorenThiessen\Documents\GitHub\stretchsense-studio-plugin-unreal\Plugins\HandEngineLiveLink\Intermediate\Build\Win64\UnrealEditor\Development\HandEngineLiveLink\HandEngineLiveLink_LLSource.cpp.obj"
+"C:\Users\JorenThiessen\Documents\GitHub\stretchsense-studio-plugin-unreal\Plugins\HandEngineLiveLink\Intermediate\Build\Win64\UnrealEditor\Development\HandEngineLiveLink\Default.rc2.res"
+/OUT:"C:\Users\JorenThiessen\Documents\GitHub\stretchsense-studio-plugin-unreal\Plugins\HandEngineLiveLink\Intermediate\Build\Win64\UnrealEditor\Development\HandEngineLiveLink\UnrealEditor-HandEngineLiveLink.lib"

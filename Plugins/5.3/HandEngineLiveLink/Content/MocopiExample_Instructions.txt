@@ -1,0 +1,5 @@
+Instructions for unpacking & using the Included Mocopi Examples.
+
+1. Install Mocopi Unreal Plugin to Project (Can be downloaded from https://www.sony.net/Products/mocopi-dev/en/downloads/DownloadInfo.html)
+2. Extract the MocopiExamples.zip folder located at \HandEngineLiveLink\Content
+3. Relaunch UE Project. Navigate to Mocopi Examples folder to find Manniquinn Examples that showcase HandEngine + Mocopi
